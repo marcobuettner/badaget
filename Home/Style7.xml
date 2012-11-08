@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<design>
+  <list itemheight="100">
+    <TXT>
+      <x>5</x>
+      <y>5</y>
+      <h>60</h>
+      <w>470</w>
+      <fontsize>25</fontsize>
+    </TXT>
+  </list>
+  <iconlist>9999</iconlist>
+</design>

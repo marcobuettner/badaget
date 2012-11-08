@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<design>
+  <list itemheight="106">
+    <TXT>
+      <x>102</x>
+      <y>5</y>
+      <w>366</w>
+      <h>60</h>
+      <fontsize>28</fontsize>
+    </TXT>
+    <image>
+      <type>scale</type>
+      <x>10</x>
+      <y>10</y>
+      <w>80</w>
+      <h>80</h>
+    </image>
+  </list>
+</design>
